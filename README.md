@@ -41,33 +41,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanMo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMo&layout=compact&theme=radical&langs_count=6" /> 
-</p>
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YanMo&theme=githubcompact&area=true&custom_title=My%20Contribution%20Graph&color=00FF00&line=00FF00&point=FFFFFF" /> 
-</p>
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YanMo&theme=radical" /> 
-</p>
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=YanMo&theme=radical&no-frame=true&column=7" /> 
-</p>
-
-### 🏆 Featured Projects
-
-<p align="center"> <a href="https://github.com/YanMo/AutoRecon"> <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=YanMo&repo=AutoRecon&theme=radical" /> </a> <a href="https://github.com/YanMo/VulnReport"> <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=YanMo&repo=VulnReport&theme=radical" /> </a> </p>
-### 😂 Random Hacker Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
@@ -86,18 +59,4 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-<picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YanMo/YanMo/output/github-contribution-grid-snake-dark.svg"> 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YanMo/YanMo/output/github-contribution-grid-snake.svg"> 
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YanMo/YanMo/output/github-contribution-grid-snake.svg"> 
-</picture>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username&format=true&color=blue" alt="visitor badge"/>
-  <br>
-  <i>Thanks for stopping by! ⭐</i>
-</p>
