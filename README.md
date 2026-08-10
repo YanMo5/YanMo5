@@ -30,49 +30,36 @@
 ### 🛠️ Arsenal & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 ---
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&langs_count=6" />
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanMo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMo&layout=compact&theme=radical&langs_count=6" /> 
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&area=true&custom_title=My%20Contribution%20Graph&color=00FF00&line=00FF00&point=FFFFFF" />
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YanMo&theme=githubcompact&area=true&custom_title=My%20Contribution%20Graph&color=00FF00&line=00FF00&point=FFFFFF" /> 
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YanMo&theme=radical" /> 
 </p>
-
----
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=YanMo&theme=radical&no-frame=true&column=7" /> 
+</p>
 
 ### 🏆 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/your-username/project-one">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-one&theme=radical" />
-  </a>
-  <a href="https://github.com/your-username/project-two">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-two&theme=radical" />
-  </a>
-</p>
-
----
-
+<p align="center"> <a href="https://github.com/YanMo/AutoRecon"> <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=YanMo&repo=AutoRecon&theme=radical" /> </a> <a href="https://github.com/YanMo/VulnReport"> <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=YanMo&repo=VulnReport&theme=radical" /> </a> </p>
 ### 😂 Random Hacker Joke
 
 <p align="center">
@@ -101,10 +88,10 @@
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+<picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YanMo/YanMo/output/github-contribution-grid-snake-dark.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YanMo/YanMo/output/github-contribution-grid-snake.svg"> 
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YanMo/YanMo/output/github-contribution-grid-snake.svg"> 
 </picture>
 
 ---
